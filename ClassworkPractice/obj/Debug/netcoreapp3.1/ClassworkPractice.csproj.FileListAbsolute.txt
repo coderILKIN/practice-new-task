@@ -1,0 +1,14 @@
+C:\Users\ilkin\source\repos\ClassworkPractice\ClassworkPractice\bin\Debug\netcoreapp3.1\ClassworkPractice.exe
+C:\Users\ilkin\source\repos\ClassworkPractice\ClassworkPractice\bin\Debug\netcoreapp3.1\ClassworkPractice.deps.json
+C:\Users\ilkin\source\repos\ClassworkPractice\ClassworkPractice\bin\Debug\netcoreapp3.1\ClassworkPractice.runtimeconfig.json
+C:\Users\ilkin\source\repos\ClassworkPractice\ClassworkPractice\bin\Debug\netcoreapp3.1\ClassworkPractice.runtimeconfig.dev.json
+C:\Users\ilkin\source\repos\ClassworkPractice\ClassworkPractice\bin\Debug\netcoreapp3.1\ClassworkPractice.dll
+C:\Users\ilkin\source\repos\ClassworkPractice\ClassworkPractice\bin\Debug\netcoreapp3.1\ClassworkPractice.pdb
+C:\Users\ilkin\source\repos\ClassworkPractice\ClassworkPractice\obj\Debug\netcoreapp3.1\ClassworkPractice.csproj.AssemblyReference.cache
+C:\Users\ilkin\source\repos\ClassworkPractice\ClassworkPractice\obj\Debug\netcoreapp3.1\ClassworkPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ilkin\source\repos\ClassworkPractice\ClassworkPractice\obj\Debug\netcoreapp3.1\ClassworkPractice.AssemblyInfoInputs.cache
+C:\Users\ilkin\source\repos\ClassworkPractice\ClassworkPractice\obj\Debug\netcoreapp3.1\ClassworkPractice.AssemblyInfo.cs
+C:\Users\ilkin\source\repos\ClassworkPractice\ClassworkPractice\obj\Debug\netcoreapp3.1\ClassworkPractice.csproj.CoreCompileInputs.cache
+C:\Users\ilkin\source\repos\ClassworkPractice\ClassworkPractice\obj\Debug\netcoreapp3.1\ClassworkPractice.dll
+C:\Users\ilkin\source\repos\ClassworkPractice\ClassworkPractice\obj\Debug\netcoreapp3.1\ClassworkPractice.pdb
+C:\Users\ilkin\source\repos\ClassworkPractice\ClassworkPractice\obj\Debug\netcoreapp3.1\ClassworkPractice.genruntimeconfig.cache
